@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="C:\Users\User\Documents\flutter\flutter\bin\cache" location="$USER_HOME$/Documents/flutter/flutter/bin/cache/fluatter_sdk.stamp" />
+    <resource url="C:\Users\User\Documents\flutter\flutter\bin\cache\dart-sdk" location="$USER_HOME$/Documents/flutter/flutter/bin/cache/dart-sdk/bin/dart.exe" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
