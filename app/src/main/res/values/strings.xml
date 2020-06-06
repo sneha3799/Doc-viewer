@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BSO BLITZER</string>
+    <string name="app_name">Doc Reader</string>
     <string name="generalphotosstring">Upload photos showing the general views of the obstruction or inconvenience caused</string>
     <string name="bicyclestring">Upload photos showing the bicycles being moved to ease the obstruction or inconvenience caused</string>
     <string name="generatereportstring">Upload photos showing the situation when returned 4 hours later</string>
