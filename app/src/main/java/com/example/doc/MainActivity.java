@@ -294,15 +294,15 @@ public class MainActivity extends AppCompatActivity {
         }
         else if((int)w < width){
             w = width ;
-            h = height / 5;
+            h = height / 3;
 //            h = height;
         }
 
 //        image.setForegroundGravity(Gravity.CENTER);
         image.setPadding(50,10,50,10);
         image.setLayoutParams(new RelativeLayout.LayoutParams((int)w,(int)h));
-        image.setMaxHeight(height);
-        image.setMaxWidth(width);
+        image.setMaxHeight((int)h);
+        image.setMaxWidth((int)w);
 //        image.setAdjustViewBounds(true);
 //        image.setScaleType(ImageView.ScaleType.MATRIX);
         InputStream inputStream = new ByteArrayInputStream(pictureData.getContent());
